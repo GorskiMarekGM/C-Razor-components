@@ -1,0 +1,14 @@
+@page "/Graph/{message}"
+<div style="background-color: #468443; color:#ffffff">
+    ** @message **
+</div>
+@code{
+    [Parameter]
+
+    public string message{get; set;}
+
+    protected override void OnInitialized()
+        {
+            message = message ?? "Hello World";
+        }
+}
