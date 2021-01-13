@@ -177,7 +177,7 @@
         }
       },
       {
-        "HashCode": -620751991,
+        "HashCode": -245879524,
         "Kind": "Components.Component",
         "Name": "tutorial_component.Pages.Graph",
         "AssemblyName": "tutorial_component",
@@ -190,10 +190,18 @@
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "message",
+            "Name": "values",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "message"
+              "Common.PropertyName": "values"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "colors",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "colors"
             }
           }
         ],
@@ -203,7 +211,7 @@
         }
       },
       {
-        "HashCode": -1428773226,
+        "HashCode": -1808272652,
         "Kind": "Components.Component",
         "Name": "tutorial_component.Pages.Graph",
         "AssemblyName": "tutorial_component",
@@ -216,10 +224,18 @@
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "message",
+            "Name": "values",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "message"
+              "Common.PropertyName": "values"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "colors",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "colors"
             }
           }
         ],
