@@ -177,7 +177,7 @@
         }
       },
       {
-        "HashCode": -245879524,
+        "HashCode": 2016599415,
         "Kind": "Components.Component",
         "Name": "tutorial_component.Pages.Graph",
         "AssemblyName": "tutorial_component",
@@ -203,6 +203,14 @@
             "Metadata": {
               "Common.PropertyName": "colors"
             }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "titles",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "titles"
+            }
           }
         ],
         "Metadata": {
@@ -211,7 +219,7 @@
         }
       },
       {
-        "HashCode": -1808272652,
+        "HashCode": -882483564,
         "Kind": "Components.Component",
         "Name": "tutorial_component.Pages.Graph",
         "AssemblyName": "tutorial_component",
@@ -236,6 +244,14 @@
             "TypeName": "System.String",
             "Metadata": {
               "Common.PropertyName": "colors"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "titles",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "titles"
             }
           }
         ],
